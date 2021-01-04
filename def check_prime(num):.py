@@ -16,5 +16,5 @@ def check_prime(num):
     else:
         print(f'{num} is  a prime number')
 
-check_prime(12)
+check_prime(int(input('Input a value here: ')))
             
