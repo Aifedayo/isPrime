@@ -1,4 +1,7 @@
 def check_prime(num):
+    """
+    A function that checks if a number is a prime number
+    """
     prime_checker = False
 
     if num == 0:
